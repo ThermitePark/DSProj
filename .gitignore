@@ -1,0 +1,15 @@
+# Visual Studio user-specific files
+*.vcxproj.user
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Visual Studio cache / DB
+.vs/
+**/.vs/
+*.VC.db
+*.VC.opendb
+*.VC.db-shm
+*.VC.db-wal
+*.vsidx
