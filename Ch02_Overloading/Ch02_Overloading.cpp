@@ -13,7 +13,7 @@ int main(void) {
 	if (r.LessThan(s)) {
 		cout << "s is Bigger";
 	}
-	else if (r.EqualSize(s)) {
+	else if (r.Equal(s)) {
 		cout << "Same Size";
 	}
 	else {
