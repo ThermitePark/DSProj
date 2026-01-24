@@ -8,7 +8,6 @@ public:
 	void Print();
 	int Area();
 	bool LessThan(Rectangle&);
-	bool EqualSize(Rectangle&);
 	bool Equal(Rectangle&);
 	int GetHeight();
 	int GetWidth();
